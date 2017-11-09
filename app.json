@@ -1,5 +1,5 @@
 {
-  "name": "Learning OpenTok Node.js",
+  "name": "OpenTok Token Server",
   "description": "An OpenTok sample app for handling OpenTok server-side functionality on a Node.js server",
   "keywords": [
     "WebRTC",
